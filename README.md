@@ -6,6 +6,10 @@ Table of Contents.
 
 
 1.  Introduction
+1.  Number systems
+    1. [Binary](/Numbersystems/BINARY.md)
+    1. [Octal](/Numbersystems/OCTAL.md)
+    1. [Hex](/Numbersystems/HEX.md)
 1.  Working with assemblers
     1. [ASM-One](/Assemblers/ASM_ONE.md)
 1. Our first programs
